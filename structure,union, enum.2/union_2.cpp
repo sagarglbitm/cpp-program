@@ -18,6 +18,6 @@ int main()
     m.pounds=1234.4;
     //it gives a random value bcz [m.car='c'] is being updated by [m.pounds=1234.4]
     cout<<m.car<<endl;
-    cout<<m.pounds<<endl;
+    cout<<m.pounds;
 
 }
